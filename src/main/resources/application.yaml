@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fast-search-project
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/files
